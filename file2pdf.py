@@ -120,7 +120,7 @@ def main():
 
     # 配置需要处理的文件夹（修改这里）
     TARGET_FOLDERS = [
-        "协议换爱 _ 協議換愛  01-80","协议换爱 _ 協議換愛  81-136","协议换爱 _ 協議換愛 137-161 END"
+        "folder1","folder2","folder3"
     ]
     
     for folder_name in TARGET_FOLDERS:
