@@ -44,5 +44,5 @@ def main():
 - result：存放合并的pdf
 - folder1、2、3：目标文件夹，文件顺序请自行排列，推荐数字排序
 - file2pdf.py：转换脚本
-- file2pdf_GUI.py：带GUI界面
+- file2pdf_GUIv3.0.py：带GUI界面
 - README.md
