@@ -13,3 +13,6 @@
 ### file2pdf_GUIv3.0.py
 
 目前完全修复的版本
+
+### webp2pdf.py-webp2pdf_4.0.py
+均为历史遗留版本，项目源于webp转pdf合并
