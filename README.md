@@ -36,6 +36,9 @@ def main():
 ## file2pdf_GUIv3.0.py
 提供一个带有界面的脚本，更加直观使用.
 
+## file2pdf_GUIv3.0.exe
+打包好的程序，直接使用
+
 ## 目录结构
 - archive：存放旧代码
 - result：存放合并的pdf
